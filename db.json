@@ -1,0 +1,606 @@
+{
+  "spiritual":[
+    {
+      "id": 1,
+      "title": "Manikarnika Ghat, Varanasi",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/manikarnika-ghat-city-hero?qlt=82&ts=1727959374496",
+      "description": "Manikarnika Ghat is one of the holiest cremation grounds in Hinduism, located on the banks of the River Ganges in Varanasi, Uttar Pradesh. It is believed that souls cremated here attain moksha, breaking free from the cycle of rebirth. The ghat is steeped in mythology, with legends linking it to Lord Shiva and Goddess Parvati. The eternal flames of cremation fires have been burning continuously for centuries, adding to its spiritual significance. It remains a place where life and death coexist, making it one of the most profound and sacred ",
+      "rating": 4.7,
+      "location":"Varanasi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 2,
+      "title": "Har Ki Pauri, Haridwar",
+      "description": "Har Ki Pauri is a revered ghat on the banks of the River Ganges in Haridwar, Uttarakhand. The name translates to 'Steps of Lord Vishnu', and it is believed to be the spot where the Ganges leaves the mountains and enters the plains. This sacred site is famous for its daily Ganga Aarti, a mesmerizing ritual where devotees gather to offer prayers and witness the flickering flames illuminating the river. Har Ki Pauri is also associated with Hindu mythology, as it is said that drops of Amrit (nectar of immortality) fell here during the celestial churning of the ocean. Pilgrims from across the world visit to take a holy dip, believing it washes away sins and grants spiritual liberation.",
+      "image": "https://theforesthill.in/images/haridwar/1.jpg",
+      "rating": 4.8,
+      "location":"Haridwar",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 3,
+      "title": "Dwarkadhish Temple, Dwarka",
+      "description": "Dwarkadhish Temple, also known as Jagat Mandir, is a revered Hindu temple dedicated to Lord Krishna, located in Dwarka, Gujarat. It is believed to have been originally built over 2,500 years ago by Krishna’s great-grandson, Vajranabh. The temple features stunning Māru-Gurjara architecture, with a five-storied structure supported by 72 intricately carved pillars. Pilgrims enter through the Swarga Dwar (Gate to Heaven) and exit through the Moksha Dwar (Gate to Liberation), symbolizing the spiritual journey. Dwarka itself is considered one of the Char Dham pilgrimage sites, making the temple a significant destination for devotees seeking divine blessings.",
+      "image": "https://arkeonews.net/wp-content/uploads/2022/05/Dwarkadish-temple-min-scaled.jpeg",
+      "rating": 4.7,
+      "location":"Dwarka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 4,
+      "title": "Ramanathaswamy Temple, Rameswaram",
+      "description": "Ramanathaswamy Temple, located on Rameswaram Island in Tamil Nadu, is one of the most sacred Hindu temples dedicated to Lord Shiva. It is part of the Char Dham pilgrimage and is revered as one of the twelve Jyotirlingas. The temple is known for its longest corridor in any Hindu temple, featuring intricately carved pillars that create a mesmerizing visual effect. According to legend, Lord Rama worshipped Shiva here to atone for any sins committed during his battle against Ravana. The temple’s 22 holy water tanks (Theerthams) are believed to cleanse devotees of their sins, making it a significant spiritual destination",
+      "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/medium-desktop/rameswaram-1655457953_09de320de48b98dece1a.webp",
+      "rating": 4.8,
+      "location":"Rameswaram",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 5,
+      "title": "Triveni Ghat, Rishikesh",
+      "description": "Triveni Ghat is the most famous and largest ghat in Rishikesh, Uttarakhand. It is believed to be the sacred confluence of three holy rivers—Ganga, Yamuna, and Saraswati—making it a spiritually powerful site. Devotees visit to take ritual baths, believing it cleanses them of sins and grants moksha (liberation). The ghat is renowned for its evening Ganga Aarti, a mesmerizing ritual performed with Vedic hymns and flickering oil lamps. Nearby temples, including the Gita Temple and Lakshmi-Narayan Temple, add to its religious significance. It remains a deeply revered destination for pilgrims and seekers of spiritual solace.",
+      "image": "https://s3.india.com/wp-content/uploads/2024/05/Feature-Image_-Rishikesh.jpg",
+      "rating": 4.6,
+      "location":"Rishikesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 6,
+      "title": "Ram Janmabhoomi, Ayodhya",
+      "description": "Ram Janmabhoomi, located in Ayodhya, Uttar Pradesh, is believed to be the birthplace of Lord Rama, the seventh avatar of Vishnu. According to Hindu tradition, this sacred site is where Rama was born, as described in the Ramayana. The location has been at the center of historical and religious significance, with the Ram Mandir now being constructed there following a landmark Supreme Court verdict in 2019. The temple is designed with intricate architecture and is expected to be a grand spiritual center. Pilgrims and devotees visit to seek blessings and experience the deep-rooted cultural and religious heritage of the site.",
+      "image": "https://www.ayodhyatourism.online/assets/images/ayodho-banner.webp",
+      "rating": 4.9,
+      "location":"Ayodhya",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 7,
+      "title": "Kedarnath Temple, Uttarakhand",
+      "description": "Kedarnath Temple, nestled in the Garhwal Himalayas of Uttarakhand, is one of the most revered Hindu pilgrimage sites dedicated to Lord Shiva. It is one of the twelve Jyotirlingas and holds immense spiritual significance. The temple, believed to have been originally built by the Pandavas, stands at an altitude of 3,583 meters (11,755 feet) near the Mandakini River. Due to extreme weather conditions, it remains open only between April and November. Pilgrims undertake a challenging 17-kilometer trek from Gaurikund to reach the temple. The temple’s stone architecture has withstood harsh Himalayan conditions, including the devastating 2013 floods, which left the surrounding areas damaged but miraculously spared the temple. It remains a profound site of devotion, attracting thousands of devotees each year.",
+      "image": "https://uttarakhandtourism.gov.in/assets/media/UTDB_media_1736325021Kedarnath_Temple.jpg",
+      "rating": 4.9,
+      "location":"Uttarakhand",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 8,
+      "title": "Meenakshi Temple, Madurai",
+      "description": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located in Madurai, Tamil Nadu. Dedicated to Goddess Meenakshi (Parvati) and Lord Sundareswarar (Shiva), it is an architectural marvel of Dravidian style, featuring towering gopurams (gateway towers) adorned with thousands of colorful sculptures. The temple is believed to date back to the 6th century CE, with its present structure built in the 16th–17th centuries. The Golden Lotus Pond (Pottamarai Kulam) and the Thousand-Pillar Hall (Aiyaram Kal Mandapa) are among its most iconic features. It remains a vibrant center of worship, attracting millions of devotees and tourists annually.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/71/bf/0e/madurai-meenakshi-temple.jpg?w=1000&h=1000&s=1",
+      "rating": 4.8,
+      "location":"Madurai",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 9,
+      "title": "Kusum Sarovar, Govardhan",
+      "description": "Kusum Sarovar is a sacred water reservoir located near Govardhan Hill in Mathura, Uttar Pradesh. It is deeply associated with Lord Krishna and Radha, as legends say Radha would come here to collect flowers while secretly meeting Krishna. The site features Rajasthani-style architecture, with cenotaphs built by King Jawahar Singh in memory of Maharaja Suraj Mal. The emerald-green waters and surrounding Kadamb trees add to its serene beauty. Pilgrims believe that bathing in Kusum Sarovar grants spiritual purification and divine blessings.",
+      "image": "https://media.istockphoto.com/id/612255400/photo/kusum-sarovar.jpg?s=612x612&w=0&k=20&c=S_KX7oE-oj0IAj5Bhl9r4U2ZrGOcWT5ZkKco7K3sBkc=",
+      "rating": 4.5,
+      "location":"Govardhan",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 10,
+      "title": "Tirumala Venkateswara Temple, Tirupati",
+      "description": "Tirumala Venkateswara Temple, located in Tirupati, Andhra Pradesh, is one of the most revered Hindu temples dedicated to Lord Venkateswara, an incarnation of Vishnu. Perched atop the Seshachalam Hills, the temple is known as the Temple of Seven Hills, symbolizing the seven heads of Adisesha, the divine serpent. It is believed that Lord Venkateswara appeared here to save mankind from the trials of Kali Yuga. The temple follows the Vaikhanasa Agama tradition and is one of the eight Vishnu Swayambhu Kshetras. Devotees from across the world visit to seek blessings, with the temple witnessing millions of pilgrims annually. The Srivari Brahmotsavam and Vaikunta Ekadashi are among the grand festivals celebrated here.",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/2-sri-venkateswara-swamy-vaari-temple-2-attr-hero?qlt=82&ts=1726816589608",
+      "rating": 5.0,
+      "location":"Tirupati",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 11,
+      "title": "Mahakaleshwar Temple, Ujjain",
+      "description": "Mahakaleshwar Temple, located in Ujjain, Madhya Pradesh, is one of the twelve Jyotirlingas, revered as sacred abodes of Lord Shiva. The temple is situated on the banks of the holy Shipra River and is unique because its lingam is Swayambhu, meaning it derives power from within rather than being ritually established. The temple’s deity is Dakshinamurti, facing south, which is a rare feature among Jyotirlingas. The temple complex includes shrines for Omkareshwar Mahadev, Ganesh, Parvati, Kartikeya, and Nandi, adding to its spiritual significance. The Bhasm Aarti, performed daily at dawn, is a major attraction, where sacred ash is offered to Lord Shiva.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_-gV1T1DeLVvuFGO48TU72LwvUDPOyg6Bg&s",
+      "rating": 4.7,
+      "location":"Ujjain",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 12,
+      "title": "Shri Kashi Vishwanath Temple, Varanasi",
+      "description": "Shri Kashi Vishwanath Temple, located in Varanasi, Uttar Pradesh, is one of the most revered Hindu temples dedicated to Lord Shiva. It is considered one of the twelve Jyotirlingas, symbolizing Shiva’s divine presence. The temple has a rich history, with its current structure built by Ahilyabai Holkar in 1780, after previous versions were destroyed during invasions. The temple complex includes the Kashi Vishwanath Corridor, which connects it to the Ganga River, enhancing accessibility for pilgrims. Devotees believe that visiting the temple and bathing in the Ganges leads to moksha (liberation). The temple’s gold-plated spires and intricate carvings make it a stunning architectural marvel.",
+      "image": "https://cdn.triptotemples.com/blog_posts/December2018/OlBCZWOlLN055SxnfZEi.jpg?tr=w-900,h-600,f-webp",
+      "rating": 4.9,
+      "location":"Varanasi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 13,
+      "title": "Lepakshi Temple, Andhra Pradesh",
+      "description": "Lepakshi Temple, officially known as Veerabhadra Temple, is a stunning 16th-century Hindu temple located in Lepakshi, Andhra Pradesh. Dedicated to Lord Veerabhadra, a fierce form of Lord Shiva, the temple is an architectural marvel of the Vijayanagara style, featuring intricate carvings and vibrant fresco paintings depicting scenes from the Ramayana, Mahabharata, and Puranas. One of its most famous features is the hanging pillar, which appears to defy gravity. Nearby, the monolithic Nandi statue, carved from a single stone, is one of the largest of its kind in India. The temple is steeped in mythology, with legends linking it to Jatayu, the divine bird from the Ramayana.",
+      "image": "https://static.toiimg.com/thumb/51598992/Lepakshi.jpg?width=1200&height=900",
+      "rating": 4.6,
+      "location":"Andhra Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 14,
+      "title": "Jagannath Temple, Puri",
+      "description": "Jagannath Temple, located in Puri, Odisha, is one of the most revered Hindu temples dedicated to Lord Jagannath, a form of Lord Vishnu. The temple is part of the Char Dham pilgrimage and is famous for its annual Rath Yatra, where the deities Jagannath, Balabhadra, and Subhadra are carried in grand chariots. The temple’s architecture follows the Kalinga style, with its towering shikhara (spire) visible from afar. Unlike most Hindu temples, the idols here are made of wood and are ceremoniously replaced every 12 or 19 years. The temple is steeped in mythology, with legends linking it to King Indradyumna, who is believed to have originally built it. It remains a deeply sacred site, attracting millions of devotees annually.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ABX_SHRI_PURUSHOTTAMA_KSHETRA_PURI.jpg",
+      "rating": 4.9,
+      "location":"Puri",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 15,
+      "title": "Digambar Jain Mandir, Hastinapur",
+      "description": "Digambar Jain Mandir, also known as Shri Digambar Jain Prachin Bada Mandir, is a significant Jain pilgrimage site located in Hastinapur, Uttar Pradesh. It is believed to be the birthplace of three Jain Tirthankaras—Shantinatha, Kunthunatha, and Aranatha. The temple complex, established in 1801 by Raja Harsukh Rai, spans 40 acres and houses over 100 temples, including the Mukhya Shikhara, which is dedicated to Shantinatha. The temple features stunning Jain architecture, intricate carvings, and gold-painted interiors depicting Jain scriptures. Notable structures within the complex include the Manastambha, Trimurti Mandir, Nandishwardweep, and Samavasarana Rachna, each holding deep spiritual significance.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/c4/bb/29/digamber-jain-bada-mandir.jpg?w=900&h=500&s=1",
+      "rating": 4.6,
+      "location":"Hastinapur",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 16,
+      "title": "Mahabodhi Temple, Bodh Gaya",
+      "description": "Mahabodhi Temple, located in Bodh Gaya, Bihar, is one of the holiest Buddhist sites, marking the place where Gautama Buddha attained enlightenment. It is a UNESCO World Heritage Site and features a towering 55-meter pyramidal shikhara adorned with intricate carvings. The temple complex houses a descendant of the original Bodhi Tree, under which Buddha meditated. Originally built by Emperor Ashoka in the 3rd century BCE, the current structure dates back to the 5th–6th century CE. Pilgrims from around the world visit to experience its profound spiritual significance and serene atmosphere.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/330px-Mahabodhitemple.jpg",
+      "rating": 4.9,
+      "location":"Bodh Gaya",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 17,
+      "title": "Virupaksha Temple, Hampi",
+      "description": "Virupaksha Temple, located in Hampi, Karnataka, is one of the most significant religious and historical sites in India. Dedicated to Lord Shiva, this UNESCO World Heritage Site showcases stunning Dravidian architecture with intricate carvings that reflect the artistic brilliance of the Vijayanagara Empire. The temple dates back to the 7th century CE and has remained a center of worship for centuries. Its towering gopuram (entrance tower) and beautifully adorned halls make it a must-visit destination for pilgrims and history enthusiasts alike.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/92/ef/caption.jpg?w=500&h=400&s=1",
+      "rating": 4.8,
+      "location":"Hampi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 18,
+      "title": "Trimbakeshwar Shiva Temple",
+      "description": "Trimbakeshwar Shiva Temple, located in Nashik, Maharashtra, is one of the twelve Jyotirlingas, dedicated to Lord Shiva. The temple is renowned for its unique three-faced lingam, representing Brahma, Vishnu, and Shiva. It is believed to be the origin of the Godavari River, with the sacred Kusavarta Kund within its premises. The temple was rebuilt by Peshwa Balaji Baji Rao after earlier structures were destroyed. Surrounded by the Brahmagiri Hills, it remains a deeply spiritual site, attracting thousands of devotees seeking divine blessings.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6h2c8aNp-s9Y0dXQ6PouPaxlkpK_YJ0dIA&s",
+      "rating": 4.4,
+      "location":"Varanasi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    }
+  ],
+
+
+  "historical":[
+    {
+      "id": 1,
+      "title": "Taj Mahal, Agra",
+      "description": "The Taj Mahal, a symbol of eternal love, is one of the most stunning architectural wonders in the world. Built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal, its ivory-white marble glows in different hues throughout the day. The monument's intricate carvings, symmetrical gardens, and reflective pools add to its grandeur. A visit here offers a breathtaking experience of history, beauty, and timeless romance.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1200px-Taj_Mahal_%28Edited%29.jpeg",
+      "rating": 5.0,
+      "location":"Agra",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 2,
+      "title": "Qutub Minar, Delhi",
+      "description": "Qutub Minar, a UNESCO World Heritage Site, is the tallest brick minaret in the world, standing at 73 meters. Built in the 12th century, it showcases stunning Indo-Islamic architecture, with intricate carvings and Quranic inscriptions. The surrounding Qutub Complex includes historic structures like the Quwwat-ul-Islam Mosque and the Iron Pillar of Delhi, making it a must-visit for history and architecture enthusiasts.",
+      "image": "https://www.thedelhitours.com/blog/wp-content/uploads/2024/09/Qutub-Minar-750x564.jpg",
+      "rating": 4.8,
+      "location":"Delhi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 3,
+      "title": "Red Fort, Delhi",
+      "description": "The Red Fort, built by Mughal Emperor Shah Jahan in 1638, is a stunning example of Mughal architecture and a symbol of India's rich history. This UNESCO World Heritage Site is famous for its red sandstone walls, intricate carvings, and grand palaces. It served as the main residence of Mughal emperors for nearly 200 years and remains a site of national significance, where India's Independence Day celebrations take place annually. A visit here offers a glimpse into India's royal past and architectural brilliance.",
+      "image": "https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg",
+      "rating": 4.7,
+      "location":"Delhi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 4,
+      "title": "India Gate, Delhi",
+      "description": "India Gate, a 42-meter-high war memorial, stands as a tribute to the soldiers who sacrificed their lives in World War I. Designed by Sir Edwin Lutyens, its grand archway resembles the Arc de Triomphe in Paris. The Amar Jawan Jyoti, an eternal flame, honors fallen soldiers, making it a site of national pride. Surrounded by lush gardens, it’s a perfect spot for evening strolls and patriotic reflection.",
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_yt_blog_w_800_c_fill_g_auto_q_auto:good_f_jpg/v1456139572/Delhi091.jpg",
+      "rating": 4.6,
+      "location":"Delhi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 5,
+      "title": "Jama Masjid, Delhi",
+      "description": "Jama Masjid, built by Mughal Emperor Shah Jahan in 1656, is one of India's largest and most magnificent mosques. Its red sandstone and white marble architecture, towering minarets, and vast courtyard create a breathtaking sight. The mosque can accommodate 25,000 worshippers, making it a spiritual and historical landmark. A visit here offers a glimpse into Mughal grandeur, intricate carvings, and the vibrant atmosphere of Old Delhi.",
+      "image": "https://lp-cms-production.imgix.net/2019-06/4ab905f975d2e8862e0a0f7187764075-jama-masjid.jpg?fit=crop&ar=1%3A1&w=1200&auto=format&q=75",
+      "rating": 4.7,
+      "location":"Delhi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 6,
+      "title": "Khajuraho Temples, Madhya Pradesh",
+      "description": "The Khajuraho Temples, a UNESCO World Heritage Site, are renowned for their intricate carvings and stunning architecture. Built between the 9th and 12th centuries by the Chandela dynasty, these temples depict a blend of spirituality, mythology, and artistic mastery. The erotic sculptures, often misunderstood, symbolize the celebration of life and human emotions. A visit here offers a glimpse into India's rich cultural heritage, making it a must-see for history and art enthusiasts.",
+      "image": "https://www.worldhistory.org/img/r/p/1500x1500/4565.jpg",
+      "rating": 4.6,
+      "location":"Madhya Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 7,
+      "title": "Charminar, Hyderabad",
+      "description": "Charminar, built in 1591, is Hyderabad’s most iconic landmark, symbolizing the city’s rich history and culture. This Indo-Islamic architectural masterpiece features four grand minarets and intricate stucco decorations. Located in the heart of the old city, it is surrounded by bustling markets like Laad Bazaar, famous for bangles and traditional crafts. A visit here offers a blend of heritage, shopping, and vibrant local flavors, making it a must-see destination",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKy-9Us7APjgYCIC9Q9ndHr4d0Wc5IFrACw&s",
+      "rating": 4.6,
+      "location":"Telangana",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 8,
+      "title": "Mysore Palace, Karnataka",
+      "description": "Mysore Palace, also known as Amba Vilas Palace, is a stunning example of Indo-Saracenic architecture and a symbol of Karnataka’s royal heritage. Once the seat of the Wadiyar dynasty, it features intricate carvings, grand halls, and vibrant stained-glass ceilings. The palace is illuminated with 97,000 lights during special occasions, creating a breathtaking spectacle. A visit here offers a glimpse into royal grandeur, history, and architectural brilliance.",
+      "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/07/25152833/Mysore-Palace-FI.jpg?tr=w-1200,h-900",
+      "rating": 4.8,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 9,
+      "title": "Humayun's Tomb, Delhi",
+      "description": "Humayun’s Tomb, a UNESCO World Heritage Site, is a stunning example of Mughal architecture and the first garden-tomb in India. Built in 1570 by Empress Bega Begum for Emperor Humayun, it inspired later monuments like the Taj Mahal. Its red sandstone structure, Persian-style charbagh gardens, and intricate carvings make it a must-visit for history and architecture lovers. A visit here offers a glimpse into Mughal grandeur, serene landscapes, and timeless craftsmanship.",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/humayuns-tomb-delhi-3-musthead-hero?qlt=82&ts=1727352134370",
+      "rating": 4.7,
+      "location":"Delhi",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 10,
+      "title": "Sanchi Stupa, Madhya Pradesh",
+      "description": "Sanchi Stupa, a UNESCO World Heritage Site, is one of the oldest stone structures in India, built by Emperor Ashoka in the 3rd century BCE. It is a masterpiece of Buddhist architecture, featuring intricately carved gateways depicting scenes from Buddha’s life. The serene surroundings and spiritual significance make it a must-visit for history lovers and those seeking tranquility. A visit here offers a glimpse into India’s ancient Buddhist heritage and artistic brilliance.",
+      "image": "https://imgcld.yatra.com/holiday-india/image/upload/t_yt_blog_c_fill_q_auto:good_f_auto_w_800_h_500/v1441881605/blog/The_Sanchi_Stupas.jpg",
+      "rating": 4.6,
+      "location":"Madhya Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 11,
+      "title": "Victoria Memorial, Kolkata",
+      "description": "Victoria Memorial, a majestic white marble monument, is one of Kolkata’s most iconic landmarks. Built between 1906 and 1921 in memory of Queen Victoria, it blends Mughal and Renaissance architectural styles. The lush gardens, grand museum, and stunning evening illumination make it a must-visit for history lovers and architecture enthusiasts.",
+      "image": "https://www.gokitetours.com/wp-content/uploads/2024/11/Top-10-Things-to-Know-About-Victoria-Memorial-in-Kolkata.webp",
+      "rating": 4.6,
+      "location":"Kolkata",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 12,
+      "title": "Konark Sun Temple, Odisha",
+      "description": "Konark Sun Temple, a UNESCO World Heritage Site, is an architectural marvel built in the 13th century by King Narasingha Deva I. Designed as a gigantic stone chariot, it features intricate carvings, massive wheels, and sculptures depicting celestial beings. Dedicated to Surya, the Sun God, it showcases the pinnacle of Kalinga architecture. A visit here offers a glimpse into India’s artistic brilliance, mythology, and historical grandeur.",
+      "image": "https://whc.unesco.org/uploads/thumbs/site_0251_0010-1200-630-20240807180746.jpg",
+      "rating": 4.8,
+      "location":"Odisha",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 13,
+      "title": "Fatehpur Sikri, Uttar Pradesh",
+      "description": "Fatehpur Sikri, a UNESCO World Heritage Site, is a stunning Mughal-era city built by Emperor Akbar in 1571. Known as the 'City of Victory,' it features grand structures like the Buland Darwaza, Panch Mahal, and Jama Masjid. The city blends Persian, Indian, and Islamic architecture, offering a glimpse into Akbar’s vision of cultural harmony. A visit here provides a journey through history, showcasing royal palaces, intricate carvings, and spiritual landmarks.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrQmJSiZE9Lj6aFawU7HJh2xGCbccxTMr6g&s",
+      "rating": 4.5,
+      "location":"Uttar Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 14,
+      "title": "Gol Gumbaz, Karnataka",
+      "description": "Gol Gumbaz, located in Vijayapura, Karnataka, is an architectural marvel and the largest dome in India. Built in the 17th century, it serves as the tomb of Mohammed Adil Shah and is famous for its Whispering Gallery, where even the softest sounds echo multiple times. The monument’s massive dome, second only to St. Peter’s Basilica in Rome, showcases the grandeur of Deccan Indo-Islamic architecture. A visit here offers a unique experience of historical significance, acoustic wonders, and stunning craftsmanship.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdoy9SgxErCQL1hzkEUjoo4tON0VIyzCicuw&s",
+      "rating": 4.6,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 15,
+      "title": "Mehrangarh Fort, Jodhpur",
+      "description": "Mehrangarh Fort, towering over Jodhpur, is one of India’s largest and most well-preserved forts. Built in 1459 by Rao Jodha, it offers breathtaking panoramic views of the Blue City. The fort’s massive walls, intricate carvings, and grand palaces showcase the grandeur of Rajput architecture. Inside, the Mehrangarh Museum displays royal artifacts, weapons, and paintings, making it a must-visit for history lovers.",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/mehrangarh-fort-jodhpur-rajasthan-hero?qlt=82&ts=1726660826646",
+      "rating": 4.7,
+      "location":"Jodhpur",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 16,
+      "title": "Amber Fort, Jaipur",
+      "description": "Amber Fort, located in Jaipur, Rajasthan, is a stunning blend of Rajput and Mughal architecture. Built in 1592 by Raja Man Singh I, it features intricate carvings, grand courtyards, and the famous Sheesh Mahal (Mirror Palace). Perched atop a hill, it offers breathtaking views of Maota Lake. A visit here immerses you in royal history, artistic brilliance, and panoramic landscapes.",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/amber-fort-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1742157903972",
+      "rating": 4.8,
+      "location":"Jaipur",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 17,
+      "title": "Gateway of India, Mumbai",
+      "description": "Gateway of India, built in 1924, is Mumbai’s most iconic landmark, symbolizing the city’s colonial history and grandeur. Overlooking the Arabian Sea, this Indo-Saracenic arch was originally constructed to commemorate the visit of King George V and Queen Mary. Today, it serves as a bustling tourist hub, offering stunning views, ferry rides to Elephanta Caves, and a vibrant atmosphere filled with street vendors and photographers. A visit here immerses you in history, architecture, and Mumbai’s coastal charm.",
+      "image": "https://www.gokitetours.com/wp-content/uploads/2024/11/Top-9-Fascinating-Facts-About-the-gate-of-India-in-Mumba.webp",
+      "rating": 4.7,
+      "location":"Mumbai",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 18,
+      "title": "Cellular Jail, Andaman Islands",
+      "description": "Cellular Jail, also known as Kala Pani, is a historic prison in Port Blair, Andaman Islands, built by the British in 1906 to exile Indian freedom fighters. Its solitary cells, harsh conditions, and tragic past make it a powerful symbol of India's struggle for independence. Today, it stands as a national memorial, featuring a moving light-and-sound show that narrates the sacrifices of prisoners. A visit here offers a deeply emotional and educational experience, immersing visitors in India's freedom movement.",
+      "image": "https://media.assettype.com/theleaflet%2Fimport%2Fwp-content%2Fuploads%2F2021%2F09%2F120337061_gettyimages-1234943959-594x594-1.jpeg?w=480&auto=format%2Ccompress&fit=max",
+      "rating": 4.7,
+      "location":"Andaman Islands",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 19,
+      "title": "Ellora Caves, Maharashtra",
+      "description": "Ellora Caves, a UNESCO World Heritage Site, is a breathtaking rock-cut complex showcasing Hindu, Buddhist, and Jain temples. Built between the 6th and 10th centuries, it features intricate carvings, massive monolithic structures, and stunning sculptures. The Kailasa Temple, carved from a single rock, is a masterpiece of ancient Indian architecture. A visit here offers a glimpse into India’s artistic brilliance, spiritual harmony, and historical grandeur.",
+      "image": "https://i0.wp.com/compass.rauias.com/wp-content/uploads/2024/04/image-3.png?resize=864%2C506&ssl=1",
+      "rating": 4.9,
+      "location":"Maharashtra",
+      "price":1499,
+      "days":3,
+      "nights":4
+    }
+  ],
+
+
+  "touristic":[
+    {
+      "id": 1,
+      "title": "Skandagiri Hills, Karnataka",
+      "description": "Skandagiri Hills, also known as Kalavara Durga, is a popular trekking destination near Bangalore. Famous for its breathtaking sunrise views, the trek offers a thrilling experience through rocky terrain and lush greenery. The ruins of an 18th-century fort, built by Tipu Sultan, add a historical charm to the journey. A visit here promises adventure, scenic beauty, and a mesmerizing view of clouds floating below the hilltop.",
+      "image": "https://escape2explore.s3.ap-south-1.amazonaws.com/UpdatedMedia/dfd94b26-04d0-4ccd-b5df-05d5c5ef5f4a.webp",
+      "rating": 4.6,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 2,
+      "title": "Munnar, Kerala",
+      "description": "Munnar, nestled in the Western Ghats, is a breathtaking hill station known for its lush tea plantations, misty valleys, and serene landscapes. It offers stunning views, rolling hills, and a refreshing climate, making it a perfect getaway for nature lovers. Visitors can explore Eravikulam National Park, witness the rare Neelakurinji flowers, and enjoy scenic spots like Mattupetty Dam and Top Station. A trip to Munnar promises tranquility, adventure, and unforgettable natural beauty.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Munnar_hill_station_.JPG",
+      "rating": 4.8,
+      "location":"Kerala",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 3,
+      "title": "White Rann of Kutch, Gujarat",
+      "description": "The White Rann of Kutch is a mesmerizing salt desert in Gujarat, famous for its vast white landscapes that shimmer under the sun and moonlight. It hosts the Rann Utsav, a vibrant cultural festival showcasing folk music, dance, and handicrafts. Visitors can experience breathtaking sunrises, sunsets, and full-moon nights, making it a surreal destination. A trip here offers a blend of natural beauty, cultural richness, and unforgettable desert adventures.",
+      "image": "https://www.rannutsav.net/wp-content/uploads/2024/12/White-rann-camel-ride.webp",
+      "rating": 4.7,
+      "location":"Gujarat",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 4,
+      "title": "Coorg & Talacauvery, Karnataka",
+      "description": "Coorg, known as the Scotland of India, is a breathtaking hill station famous for its lush coffee plantations, misty landscapes, and serene waterfalls. It offers a perfect blend of nature, adventure, and cultural heritage, with attractions like Abbey Falls, Raja’s Seat, and Dubare Elephant Camp.",
+      "image": "https://oneday.travel/wp-content/uploads/up-tours-1-day-coorg-with-talacauvery-local-sightseeing-tour-package-private-car-header.jpg",
+      "rating": 4.7,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 5,
+      "title": "Ladakh, Jammu & Kashmir",
+      "description": "Ladakh, often called the 'Land of High Passes', is a breathtaking region known for its rugged mountains, serene monasteries, and pristine landscapes. It offers stunning attractions like Pangong Lake, Nubra Valley, and the ancient monasteries of Hemis and Thiksey. Adventure seekers can enjoy trekking, river rafting, and exploring remote villages. A visit here promises unparalleled natural beauty, rich Tibetan culture, and thrilling experiences.",
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/v1517480778/AdvNation/ANN_DES95/ann_top_Ladakh_buV00Q.jpg",
+      "rating": 4.9,
+      "location":"Jammu & Kashmir",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 6,
+      "title": "Alleppey Beach, Kerala",
+      "description": "Alleppey Beach, also known as Alappuzha Beach, is a stunning coastal destination in Kerala, famous for its golden sands, serene backwaters, and historic pier. The 137-year-old pier extends into the sea, offering breathtaking views of the Arabian Sea. The beach hosts vibrant events like the Alappuzha Beach Festival and the International Sand Art Festival, adding to its charm. A visit here promises tranquility, scenic beauty, and a glimpse into Kerala’s rich maritime heritage.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/1200px-Alleppey_beach.jpg",
+      "rating": 4.5,
+      "location":"Kerala",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 7,
+      "title": "Digha Beach, West Bengal",
+      "description": "Digha Beach, often called the 'Brighton of the East', is one of the most popular seaside destinations in West Bengal. Known for its golden sands, gentle waves, and serene atmosphere, it offers a perfect getaway for beach lovers. The beach is lined with casuarina trees, adding to its scenic beauty.",
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2018/05/16113231/digha1-600x400.jpg",
+      "rating": 4.3,
+      "location":"West Bengal",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 8,
+      "title": "Tsomgo Lake, Sikkim",
+      "description": "Tsomgo Lake, also known as Changu Lake, is a breathtaking glacial lake nestled at an altitude of 12,313 feet in Sikkim. Surrounded by snow-capped peaks, it reflects the changing hues of the sky, creating a mesmerizing spectacle.The lake holds deep spiritual significance for the Sikkimese people, who believe it to be the abode of protective deities. During winter, it remains frozen, adding to its mystical charm. Visitors can enjoy yak rides, explore nearby trekking trails, and witness the vibrant prayer flags fluttering in the breeze",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/tsomgo-lake-gangtok-sikkim-2-attr-hero?qlt=82&ts=1727355185446",
+      "rating": 4.8,
+      "location":"Sikkim",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 9,
+      "title": "Baga Beach, Goa",
+      "description": "Baga Beach in North Goa is a lively coastal paradise known for its golden sands and thrilling water sports. It offers exciting activities like parasailing, jet skiing, and banana boat rides, alongside buzzing nightlife at Tito’s Lane. The beach shacks serve delicious Goan seafood, and local markets provide great shopping options. The scenic Baga River nearby enhances the stunning landscape, making it a must-visit destination for relaxation and adventure.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=-1&s=1",
+      "rating": 4.6,
+      "location":"Goa",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 10,
+      "title": "Gulmarg, Jammu & Kashmir",
+      "description": "Gulmarg, known as the 'Meadow of Flowers', is a breathtaking hill station in Jammu & Kashmir, surrounded by the majestic Himalayas. It is famous for skiing, the Gulmarg Gondola (one of the highest cable cars in the world), and scenic landscapes. Visitors can explore Apharwat Peak, Alpather Lake, and St. Mary’s Church, making it a paradise for nature lovers and adventure seekers. A trip here promises snowy slopes, lush meadows, and unforgettable mountain views. ",
+      "image": "https://www.incredibleindia.gov.in/content/dam/incredible-india/images/trips/jammu-and-kashmir/srinagar/gulmarg-serenity-escape/gulmarg-meadows-srinagar-tri-iter-day1.jpg",
+      "rating": 4.9,
+      "location":"Jammu & Kashmir",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 11,
+      "title": "Kodaikanal, Tamil Nadu",
+      "description": "Kodaikanal, known as the 'Princess of Hill Stations', is a breathtaking retreat in Tamil Nadu, nestled in the Western Ghats. It features lush forests, misty valleys, and serene lakes, making it a paradise for nature lovers. Popular attractions include Kodaikanal Lake, Coaker’s Walk, and Guna Caves. The town is famous for its cool climate, vibrant flora, and adventure activities like trekking and boating. A visit here promises tranquility, scenic beauty, and unforgettable mountain views. ",
+      "image": "https://static.toiimg.com/photo/77120379.cms",
+      "rating": 4.7,
+      "location":"Tamil Nadu",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 12,
+      "title": "Araku Valley, Andhra Pradesh",
+      "description": "Araku Valley, nestled in the Eastern Ghats, is a serene hill station in Andhra Pradesh, known for its lush coffee plantations, tribal culture, and breathtaking landscapes. Visitors can explore Borra Caves, Katiki Waterfalls, and the Tribal Museum, offering a mix of adventure and heritage. The scenic Vistadome train ride from Visakhapatnam to Araku is a must-experience journey. A trip here promises tranquility, natural beauty, and cultural richness.",
+      "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/26/673e417fabec106e44163ce8138c12df_1000x1000.png",
+      "rating": 4.5,
+      "location":"Andhra Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 13,
+      "title": "Spiti Valley, Himachal Pradesh",
+      "description": "Spiti Valley, known as the 'Middle Land' between India and Tibet, is a breathtaking cold desert in Himachal Pradesh. It features rugged mountains, ancient monasteries like Key and Tabo, and stunning landscapes. Adventure seekers can explore trekking trails, high-altitude passes, and glacial lakes. The valley’s Tibetan culture, serene villages, and starry night skies make it a paradise for travelers. A visit here promises thrilling adventures, spiritual experiences, and mesmerizing Himalayan beauty.",
+      "image": "https://assets.cntraveller.in/photos/669120910f15e089fb0cd3f1/16:9/w_5616,h_3159,c_limit/1206473179",
+      "rating": 4.9,
+      "location":"Himachal Pradesh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 14,
+      "title": "Nubra Valley, Ladakh",
+      "description": "Nubra Valley, often called the 'Orchard of Ladakh,' is a breathtaking high-altitude desert known for its sand dunes, monasteries, and stunning landscapes. The Shyok River flows through the valley, creating patches of lush greenery amid the arid terrain. Visitors can explore Diskit Monastery, Hunder Sand Dunes, and Turtuk Village, experiencing a blend of adventure and cultural heritage. The valley is accessible via Khardung La, one of the highest motorable passes in the world. A trip here promises unmatched Himalayan beauty, thrilling experiences, and serene escapes. 🏔️✨",
+      "image": "https://spiceholiday.in/wp-content/uploads/2024/04/Nubra-Valley.png",
+      "rating": 4.8,
+      "location":"Ladakh",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 15,
+      "title": "Tadiandamol, Karnataka",
+      "description": "Tadiandamol, the highest peak in Coorg and the third highest in Karnataka, is a paradise for trekkers. Standing at 5,735 feet, it offers breathtaking views of rolling green hills and misty landscapes. The trek takes you through lush Shola forests, coffee plantations, and scenic trails, making it a thrilling adventure. Nearby, the historic Nalaknad Palace adds cultural charm to the journey. A visit here promises serene beauty, adventure, and unforgettable mountain vistas. 🏔️🌿",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3qdvRGyNcVc6RghT8fBoKIuCxDP-71gfvw&s",
+      "rating": 4.7,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 16,
+      "title": "Chikmagalur, Karnataka",
+      "description": "Chikmagalur, known as the 'Coffee Land of Karnataka', is a serene hill station nestled in the Western Ghats. It boasts lush coffee plantations, misty hills, and breathtaking waterfalls, making it a paradise for nature lovers. Visitors can explore Mullayanagiri Peak, Baba Budangiri, and Hebbe Falls, offering adventure and scenic beauty. The town’s cool climate, rich biodiversity, and trekking trails make it a perfect getaway. A trip here promises tranquility, adventure, and unforgettable landscapes. 🌿🏔️",
+      "image": "https://nammatrip.in/wp-content/uploads/2024/03/38.png",
+      "rating": 4.6,
+      "location":"Karnataka",
+      "price":1499,
+      "days":3,
+      "nights":4
+    },
+    {
+      "id": 17,
+      "title": "Dal Lake, Srinagar",
+      "description": "Dal Lake, often called the 'Jewel of Srinagar', is a breathtaking freshwater lake in Jammu & Kashmir. Surrounded by the majestic Himalayas, it features floating gardens, vibrant houseboats, and traditional shikara rides. The lake is a hub for local commerce, fishing, and tourism, offering stunning views from Mughal-era gardens like Shalimar Bagh and Nishat Bagh. A visit here promises serene beauty, cultural richness, and unforgettable experiences. 🚣🏔️",
+      "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190312112932/Shikara-boats-on-Dal-lake-Srinagar-1024x656.jpg",
+      "rating": 4.9,
+      "location":"Srinagar",
+      "price":1499,
+      "days":3,
+      "nights":4
+    }
+  ]
+}
